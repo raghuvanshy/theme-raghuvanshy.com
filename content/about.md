@@ -1,6 +1,8 @@
 ---
-title: "About"
-date: 2018-05-30T19:03:14+05:30
+title: About
+date: 2018-05-30 19:03:14 +0530
+type: page
 draft: true
----
 
+---
+test description
