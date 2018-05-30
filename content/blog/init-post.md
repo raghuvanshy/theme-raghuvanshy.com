@@ -5,6 +5,6 @@ description: initial test blog post
 draft: true
 
 ---
-![](https://inews.co.uk/wp-content/uploads/2017/08/Ghost-GOT.jpg)Hey this is a test blog post.
+![got ghost](https://inews.co.uk/wp-content/uploads/2017/08/Ghost-GOT.jpg "ghost image")Hey this is a test blog post.
 
 **Lets do something funky.**
