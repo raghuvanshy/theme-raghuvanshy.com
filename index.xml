@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Osprey Example Site</title>
+    <link>https://tomanistor.com/</link>
+    <description>Recent content on Osprey Example Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 30 May 2018 19:03:14 +0530</lastBuildDate>
+    
+	<atom:link href="https://tomanistor.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://tomanistor.com/about/</link>
+      <pubDate>Wed, 30 May 2018 19:03:14 +0530</pubDate>
+      
+      <guid>https://tomanistor.com/about/</guid>
+      <description>test description</description>
+    </item>
+    
+  </channel>
+</rss>
